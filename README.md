@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CropGuard AI
 
 Photograph a crop, get a diagnosis and a treatment plan, then keep asking questions.
@@ -184,3 +185,6 @@ These are the gaps between this and a public launch:
   messages endpoint would make long answers feel faster.
 - **Thread compaction.** Very long conversations replay in full and get
   expensive. `MAX_CONVERSATION_TURNS` caps this bluntly at 40 turns.
+=======
+# Crop_Guard_2
+>>>>>>> 53fe16d115df697abc77bd17796929af9406fd7c
